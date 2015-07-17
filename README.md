@@ -1,5 +1,3 @@
-# Starter Book
+# Digitale Archäologie Skript
 
-This is a book project, with a few example pages.
-
-For guidance on what goes in here, see [bitbooks.cc/docs/book-repository](http://bitbooks.cc/docs/book-repository).
+Skript zu digitalen Anwendungen in der Archäologie entwickelt von der Arbeitsgruppe [TArchIT](http://www.tarchit.de).
